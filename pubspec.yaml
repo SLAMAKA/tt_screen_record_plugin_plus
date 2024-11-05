@@ -1,8 +1,8 @@
-name: tt_screen_record_plugin
+name: tt_screen_record_plugin_plus
 description: "Screen recording component supports Android and iOS. Android uses the device_screen_recorder plugin
 The system capability used by iOS is ReplayKit. Only after iOS14 (including 14) can the screen recording be saved to a custom path, such as a sandbox.
 Before iOS14, recorded videos will be saved in the photo album"
-version: 0.0.3
+version: 0.0.1
 homepage: https://potenthockey.com
 
 environment:
