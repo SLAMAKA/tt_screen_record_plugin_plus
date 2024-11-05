@@ -40,8 +40,8 @@ flutter:
       android:
         package: com.example.tt_screen_record_plugin
         pluginClass: TtScreenRecordPlugin
-      ios:
-        pluginClass: TtScreenRecordPlugin
+#      ios:
+#        pluginClass: TtScreenRecordPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
