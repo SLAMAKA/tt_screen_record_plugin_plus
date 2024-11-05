@@ -12,10 +12,10 @@
 @import integration_test;
 #endif
 
-#if __has_include(<tt_screen_record_plugin/TtScreenRecordPlugin.h>)
-#import <tt_screen_record_plugin/TtScreenRecordPlugin.h>
+#if __has_include(<tt_screen_record_plugin_plus/TtScreenRecordPlugin.h>)
+#import <tt_screen_record_plugin_plus/TtScreenRecordPlugin.h>
 #else
-@import tt_screen_record_plugin;
+@import tt_screen_record_plugin_plus;
 #endif
 
 @implementation GeneratedPluginRegistrant

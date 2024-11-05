@@ -28,7 +28,7 @@ public final class GeneratedPluginRegistrant {
     try {
       flutterEngine.getPlugins().add(new com.example.tt_screen_record_plugin.TtScreenRecordPlugin());
     } catch (Exception e) {
-      Log.e(TAG, "Error registering plugin tt_screen_record_plugin, com.example.tt_screen_record_plugin.TtScreenRecordPlugin", e);
+      Log.e(TAG, "Error registering plugin tt_screen_record_plugin_plus, com.example.tt_screen_record_plugin.TtScreenRecordPlugin", e);
     }
   }
 }
