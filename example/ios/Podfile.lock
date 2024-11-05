@@ -2,7 +2,7 @@ PODS:
   - Flutter (1.0.0)
   - integration_test (0.0.1):
     - Flutter
-  - tt_screen_record_plugin_plus (0.0.1):
+  - tt_screen_record_plugin (0.0.1):
     - Flutter
 
 DEPENDENCIES:
