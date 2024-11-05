@@ -26,7 +26,7 @@ void main() {
   });
 
   test('getPlatformVersion', () async {
-    TtScreenRecordPlugin ttScreenRecordPlugin = TtScreenRecordPlugin();
+    TtScreenRecordPluginPlus ttScreenRecordPlugin = TtScreenRecordPluginPlus();
     MockTtScreenRecordPluginPlatform fakePlatform = MockTtScreenRecordPluginPlatform();
     TtScreenRecordPluginPlatform.instance = fakePlatform;
 

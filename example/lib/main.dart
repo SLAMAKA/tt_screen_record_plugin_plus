@@ -17,7 +17,7 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   String _platformVersion = 'Unknown';
-  final _ttScreenRecordPlugin = TtScreenRecordPlugin();
+  final _ttScreenRecordPlugin = TtScreenRecordPluginPlus();
   bool recording = false; // 正在录制
   int recordingText = 0;
   Timer? _timer;

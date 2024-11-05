@@ -16,7 +16,7 @@ void main() {
   IntegrationTestWidgetsFlutterBinding.ensureInitialized();
 
   testWidgets('getPlatformVersion test', (WidgetTester tester) async {
-    final TtScreenRecordPlugin plugin = TtScreenRecordPlugin();
+    final TtScreenRecordPluginPlus plugin = TtScreenRecordPluginPlus();
     final String? version = await plugin.isAvailable().toString();
     // The version string depends on the host platform running the test, so
     // just assert that some non-empty string is returned.

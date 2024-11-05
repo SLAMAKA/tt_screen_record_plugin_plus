@@ -2,27 +2,27 @@ PODS:
   - Flutter (1.0.0)
   - integration_test (0.0.1):
     - Flutter
-  - tt_screen_record_plugin (0.0.1):
+  - tt_screen_record_plugin_plus (0.0.1):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
   - integration_test (from `.symlinks/plugins/integration_test/ios`)
-  - tt_screen_record_plugin (from `.symlinks/plugins/tt_screen_record_plugin/ios`)
+  - tt_screen_record_plugin_plus (from `.symlinks/plugins/tt_screen_record_plugin_plus/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Flutter
   integration_test:
     :path: ".symlinks/plugins/integration_test/ios"
-  tt_screen_record_plugin:
-    :path: ".symlinks/plugins/tt_screen_record_plugin/ios"
+  tt_screen_record_plugin_plus:
+    :path: ".symlinks/plugins/tt_screen_record_plugin_plus/ios"
 
 SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
-  integration_test: 13825b8a9334a850581300559b8839134b124670
-  tt_screen_record_plugin: c5cc6baa781962942e4f6f54b634815f6776df03
+  integration_test: 252f60fa39af5e17c3aa9899d35d908a0721b573
+  tt_screen_record_plugin_plus: 1b60494398adaffb97bda7387bb4db7678ca28dd
 
 PODFILE CHECKSUM: 6e700dec67e6deac9b1c69bb14c49a2217a12d15
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.14.3

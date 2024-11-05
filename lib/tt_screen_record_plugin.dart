@@ -3,7 +3,7 @@ import 'package:device_screen_recorder_plus/device_screen_recorder.dart';
 
 import 'tt_screen_record_plugin_platform_interface.dart';
 
-class TtScreenRecordPlugin {
+class TtScreenRecordPluginPlus {
   bool _isRecording = false;
 
   Future<bool> startRecording() async {
